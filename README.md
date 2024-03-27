@@ -2,6 +2,7 @@
 Predicting Insurance Charges using Linear Regression
 
 ### Project Overview
+
 The primary goal of this project is to develop a predictive model that can accurately estimate individual insurance charges based on personal health and demographic information. 
 By doing so, we aim to uncover the key drivers of medical costs and provide actionable insights to insurance companies for setting premiums and to individuals for understanding how different factors might affect their insurance expenses.
 ------------------------------------------
